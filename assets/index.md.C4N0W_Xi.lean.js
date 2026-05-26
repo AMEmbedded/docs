@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,ag as d}from"./chunks/framework.Ca42NP5A.js";const p=JSON.parse('{"title":"AM devices","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function _(r,a,n,t,l,v){return s(),c("div",null,[...a[0]||(a[0]=[d("",2)])])}const m=e(i,[["render",_]]);export{p as __pageData,m as default};
